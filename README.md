@@ -1,4 +1,5 @@
 E-Commerce Sales Dashboard
+
 📌 Overview
 This project is an interactive Power BI dashboard built from an open-source Kaggle dataset. The dashboard analyzes e-commerce sales data, providing insights into revenue trends, customer behavior, and product performance from 2016 to 2018.
 
